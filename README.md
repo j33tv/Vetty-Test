@@ -28,6 +28,9 @@ Clone the repository: git clone [repository_url]
 
 Set up a virtual environment: python -m venv venv (activate based on your OS)
 
+![Screenshot (58)](https://github.com/j33tv/Vetty-Test/assets/84339104/2ad3370d-465c-4392-8f56-2d06b1fe9468)
+
+
 Install dependencies: pip install -r REQUIREMENTS.txt
 
 Run the Flask application: python app.py
