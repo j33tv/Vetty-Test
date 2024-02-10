@@ -1,5 +1,9 @@
 # Vetty-Test
 
+![Screenshot (58)](https://github.com/j33tv/Vetty-Test/assets/84339104/2ad3370d-465c-4392-8f56-2d06b1fe9468)
+
+
+
 # File Viewer Flask App
 
 A simple Flask application to view the content of text files with preserved markup. The application supports rendering files in English, including files containing Chinese characters. It provides a single GET route, allowing users to specify the target file name as part of the URL. Optional URL query parameters can be used to define start and end line numbers, allowing users to view a specific range of lines in the file.
@@ -27,9 +31,6 @@ Git version control for easy collaboration and deployment
 Clone the repository: git clone [repository_url]
 
 Set up a virtual environment: python -m venv venv (activate based on your OS)
-
-![Screenshot (58)](https://github.com/j33tv/Vetty-Test/assets/84339104/2ad3370d-465c-4392-8f56-2d06b1fe9468)
-
 
 Install dependencies: pip install -r REQUIREMENTS.txt
 
